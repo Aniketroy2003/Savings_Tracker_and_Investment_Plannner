@@ -1,7 +1,7 @@
 
 # Savings_Tracker_and_Investment_Plannner
 
-video: 
+video: https://www.youtube.com/watch?v=rFTIAtC6g0Y
 
 ## Problem Statement
 
